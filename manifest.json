@@ -3,7 +3,7 @@
   "description": "Make YouTube Red again (instead of magenta)",
   "manifest_version": 2,
   "name": "YouTube Redify",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/mgytr/YTRedify",
   "icons": {
     "128": "icons/128.png"
